@@ -59,7 +59,6 @@ let remainingMaterial = totalMaterial - totalConsumed;
 return remainingMaterial + materialUnits;
 }
 
-console.log(materialWaste(100,'kg',10,5))
 
 /**
  * Interest
